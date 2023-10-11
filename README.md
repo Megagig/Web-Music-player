@@ -63,7 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](coming soon)
+- [Live Demo Link](https://megagig-web-music-player.vercel.app/)
 
 <!-- GETTING STARTED -->
 
